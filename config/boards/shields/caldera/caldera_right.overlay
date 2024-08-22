@@ -6,11 +6,11 @@
 
 &kscan0 {
     col-gpios
-        = <&nice!nano 17 GPIO_ACTIVE_HIGH>
-        , <&nice!nano 11 GPIO_ACTIVE_HIGH>
-        , <&nice!nano 100 GPIO_ACTIVE_HIGH>
-        , <&nice!nano 24 GPIO_ACTIVE_HIGH>
-        , <&nice!nano 22 GPIO_ACTIVE_HIGH>
-        , <&nice!nano 20 GPIO_ACTIVE_HIGH>
+        = <&pro_micro 17 GPIO_ACTIVE_HIGH>
+        , <&pro_micro 11 GPIO_ACTIVE_HIGH>
+        , <&pro_micro 100 GPIO_ACTIVE_HIGH>
+        , <&pro_micro 24 GPIO_ACTIVE_HIGH>
+        , <&pro_micro 22 GPIO_ACTIVE_HIGH>
+        , <&pro_micro 20 GPIO_ACTIVE_HIGH>
         ;
 };
