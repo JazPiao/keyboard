@@ -2,12 +2,12 @@
 
 &kscan0 {
     col-gpios
-        = <&nice!nano 020 GPIO_ACTIVE_HIGH>
-        , <&nice!nano 022 GPIO_ACTIVE_HIGH>
-        , <&nice!nano 024 GPIO_ACTIVE_HIGH>
-        , <&nice!nano 100 GPIO_ACTIVE_HIGH>
-        , <&nice!nano 111 GPIO_ACTIVE_HIGH>
-        , <&nice!nano 020 GPIO_ACTIVE_HIGH>
+        = <&nRFMicro 020 GPIO_ACTIVE_HIGH>
+        , <&nRFMicro 022 GPIO_ACTIVE_HIGH>
+        , <&nRFMicro 024 GPIO_ACTIVE_HIGH>
+        , <&nRFMicro 100 GPIO_ACTIVE_HIGH>
+        , <&nRFMicro 111 GPIO_ACTIVE_HIGH>
+        , <&nRFMicro 020 GPIO_ACTIVE_HIGH>
         ;
 };
 
