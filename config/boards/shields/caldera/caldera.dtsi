@@ -2,8 +2,9 @@
 
 &gpio0 {
     wakeup_button: wakeup_button {
-        gpios = <&gpio0 115 GPIO_ACTIVE_LOW>;
+        gpios = <&gpio0 15 GPIO_ACTIVE_LOW>;
         label = "Wakeup Button";
+        wakeup-source;
     };
 };
 / {
