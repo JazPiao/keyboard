@@ -32,8 +32,8 @@
    &trans       &trans         &trans         &trans         &trans         &trans                 &trans        &trans    &trans        &trans           &trans             &trans
    &trans       &trans         &trans         &kp LPAR       &kp RPAR       &trans                 &trans        &kp LBKT  &kp RBKT      &kp MINUS        &kp EQUAL          &trans
    &trans       &trans         &trans         &trans         &trans         &trans                 &trans        &trans    &trans        &trans           &trans             &trans
-   &trans       &trans         &trans         &trans         &trans         &trans                 &trans        &trans    &kp C_MUTE    &kp C_VOLUP     &kp C_VOLDOWN     &trans
+   &trans       &trans         &trans         &trans         &trans         &trans                 &trans        &trans    &kp KC_MUTE    &kp KC_VOLUP     &kp KC_VOLDOWN     &trans
                         >;
                 };
         };
-};
+}; 
