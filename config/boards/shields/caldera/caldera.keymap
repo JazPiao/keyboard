@@ -32,7 +32,7 @@
    &trans       &trans         &trans         &trans         &trans         &trans                 &trans        &trans    &trans        &trans           &trans             &trans
    &trans       &trans         &trans         &kp LPAR       &kp RPAR       &trans                 &trans        &kp LBKT  &kp RBKT      &kp MINUS        &kp EQUAL          &trans
    &trans       &trans         &trans         &trans         &trans         &trans                 &trans        &trans    &trans        &trans           &trans             &trans
-   &trans       &trans         &trans         &trans         &trans         &trans                 &trans        &trans    &kp C_MUTE    &kp C_VOL_UP     &kp C_VOL_DOWN     &trans
+   &trans       &trans         &trans         &trans         &trans         &trans                 &trans        &trans    &kp C_MUTE    &kp C_VOLUP     &kp C_VOLDOWN     &trans
                         >;
                 };
         };
